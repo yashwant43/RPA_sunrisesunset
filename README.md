@@ -1,6 +1,4 @@
 # sunrisesunset
-RPA + MS SQL Server+ MS Excel + Power BI project
-
 **RPA Project Objective:**
 
 Automating the extraction of the Sunrise and Sunset data from a website and alerting the user if the daylength exceeds a certain number
